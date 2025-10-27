@@ -1,1 +1,2 @@
 # Diwali-Sales-Analysis
+#The objective of this project is to analyze Diwali sales data using Python and its data analytics libraries such as NumPy, Pandas, Matplotlib, and Seaborn. Through in-depth data cleaning, visualization, and analysis, the project aims to uncover key customer purchasing patterns and demographic insights. These insights will help improve customer experience, enhance targeted marketing strategies, and ultimately drive an increase in overall company revenue.
